@@ -7,7 +7,7 @@ class footer extends React.Component {
       <div>
         <div>
           <NavLink to="/celeb">셀럽</NavLink>
-          <NavLink to="/call">제휴문희</NavLink>
+          <NavLink to="/call">제휴문의</NavLink>
         </div>
       </div>
     );
